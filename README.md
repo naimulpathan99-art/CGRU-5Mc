@@ -18,6 +18,7 @@ Each input sequence contains **41 bp** and is represented as a **41 x 7** featur
 
 - **Primary Dataset**
 - **Secondary Dataset**
+      -Secondary Dataset = Human hepatocellular carcinoma + Human non-small cell lung cancer  + Human small cell lung cancer
 
 ## Leakage-Aware Evaluation
 
